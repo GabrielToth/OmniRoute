@@ -486,13 +486,13 @@ createResponsesApiTransformStream(): TransformStream
 
 `open-sse/config/` የማዋቀሪያውን ንብርብር ይይዛል፡-
 
-| ፋይል                           | ዓላማ                              |
-| ----------------------------- | -------------------------------- |
-| `providerRegistry.ts`         | በ381 አቅራቢ ካታሎግ ላይ የውይይት-ሞዴል መዝገብ |
-| `providerModels.ts`           | የሞዴል ተለዋጭ ስሞች፣ የቅርጸት ካርታ         |
-| `constants.ts`                | የጊዜ ማብቂያዎች፣ ገደቦች፣ የሁኔታ ኮዶች       |
-| `defaultThinkingSignature.ts` | ነባሪ Claude አስተሳሰብ ፊርማ            |
-| `modelStrip.ts` (በአገልግሎት ውስጥ) | በአቅራቢው መስክ ማራገፍ                  |
+| ፋይል                           | ዓላማ                                |
+| ----------------------------- | ---------------------------------- |
+| `providerRegistry.ts`         | በ384 አቅራቢዎች ካታሎግ ላይ የውይይት-ሞዴል መዝገብ |
+| `providerModels.ts`           | የሞዴል ተለዋጭ ስሞች፣ የቅርጸት ካርታ           |
+| `constants.ts`                | የጊዜ ማብቂያዎች፣ ገደቦች፣ የሁኔታ ኮዶች         |
+| `defaultThinkingSignature.ts` | ነባሪ Claude አስተሳሰብ ፊርማ              |
+| `modelStrip.ts` (በአገልግሎት ውስጥ) | በአቅራቢው መስክ ማራገፍ                    |
 
 ### የአቅራቢዎች መዝገብ ቤት እቅድ
 
